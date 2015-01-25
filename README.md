@@ -1,7 +1,7 @@
 
-#  Coursera Project for class titled "Getting and Cleaning Data"
+##  Coursera Project for class titled "Getting and Cleaning Data"
 
-## The objective is to write R code that will input the various measurements recorded from a Samsung Galaxy 5 phone's accelerometer.  This data is correlated to 30 people performing 6 different types of activities such as walking or standing.  A code book is to be supplied for reference to variable specifics.
+### The objective is to write R code that will input the various measurements recorded from a Samsung Galaxy 5 phone's accelerometer.  This data is correlated to 30 people performing 6 different types of activities such as walking or standing.  A code book is to be supplied for reference to variable specifics.
 
 ### data source for the project is listed below.
 
